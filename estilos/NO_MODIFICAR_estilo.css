@@ -1,0 +1,150 @@
+i {
+    font-size: 10pt;
+}
+
+.contenedor-actividades{
+    width: 49%;
+    border: 1px solid black;
+    float: left;
+}
+
+.contenedor-actividades .titulo{
+    height: 80px;
+}
+
+.contenedor-actividades h2{
+    text-align: center;
+}
+
+.contenedor-actividades .act1{
+    height: 220px;
+}
+
+.contenedor-actividades .act2{
+    height: 240px;
+}
+
+.contenedor-actividades .act3{
+    height: 280px;
+}
+
+.contenedor-actividades .act3-contenedor{
+    height: 200px;
+    width: 600px;
+    margin: 0px auto;
+}
+
+.contenedor-actividades .act4{
+    height: 380px;
+}
+
+.contenedor-actividades .act4-contenedor{
+    height: 300px;
+    width: 600px;
+    margin: 0px auto;
+    border: 2px solid blue;
+}
+
+.contenedor-actividades .act5{
+    height: 280px;
+}
+
+.contenedor-actividades .act5-contenedor{
+    height: 200px;
+}
+
+.contenedor-actividades .act6{
+    height: 280px;
+}
+
+.contenedor-actividades .act6-contenedor{
+    height: 200px;
+}
+
+.contenedor-actividades .act7{
+    height: 280px;
+}
+
+.contenedor-actividades .act7-contenedor{
+    padding: 4px;
+    border:1px solid orange;
+    background-color: #BBBBBB;
+}
+
+.contenedor-actividades .act8{
+    height: 280px;
+}
+
+.contenedor-actividades .act9{
+    height: 280px;
+}
+
+.borde-rojo{
+    border: 2px solid red;
+}
+
+.borde-verde{
+    border: 2px solid green;
+}
+
+.borde-azul{
+    border: 2px solid blue;
+}
+
+.borde-naranja{
+    border: 2px solid orange;
+}
+
+.borde-marron{
+    border: 2px solid brown;
+}
+
+.contenedor-resultados{
+    width: 49%;
+    border: 1px solid black;
+    float: right;
+}
+
+.contenedor-resultados h2{
+    text-align: center;
+    line-height: 80px;
+    background-color: #959595;
+}
+
+.contenedor-resultados .act1{
+    height: 220px;
+    font-weight: bold;
+}
+
+.contenedor-resultados .act2{
+    height: 240px;
+}
+
+.contenedor-resultados .act3{
+    height: 280px;
+}
+
+.contenedor-resultados .act4{
+    height: 380px;
+}
+
+.contenedor-resultados .act5{
+    height: 280px;
+}
+
+.contenedor-resultados .act6{
+    height: 280px;
+}
+
+.contenedor-resultados .act7{
+    height: 280px;
+}
+
+.contenedor-resultados .act8{
+    height: 280px;
+}
+
+.contenedor-resultados .act9{
+    height: 280px;
+    text-align: center;
+}
